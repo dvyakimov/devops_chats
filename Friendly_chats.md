@@ -2,6 +2,7 @@
 
 ## Our chats about work
 
+- [AppSec & DevSecOps Jobs](https://t.me/appsec_job_chat)
 - [JavaScript Jobs](https://t.me/javascript_jobs)
 - [Rust Jobs](https://t.me/rust_jobs)
 - [DevOps Jobs](https://t.me/devops_jobs)
@@ -13,6 +14,7 @@
 
 ## Feeds about job opportunities
 
+- [AppSec & DevSecOps Feed](https://t.me/appsec_job)
 - [JavaScript Jobs Feed](http://t.me/javascript_jobs_feed)
 - [Projects Jobs Feed](http://t.me/projects_jobs_feed)
 - [DevOps Jobs Feed](http://t.me/devops_jobs_feed)
@@ -26,6 +28,7 @@
 
 ## Technical chats
 
+- [DevSecOps](https://t.me/sec_devops_chat)
 - [JavaScript](https://t.me/js_ru)
 - [JavaScript Noobs](https://t.me/js_noobs_ru)
 - [TypeScript](https://t.me/ts_ru)
